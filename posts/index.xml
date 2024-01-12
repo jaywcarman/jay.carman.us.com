@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jay Carman</title>
+    <link>https://jay.carman.us.com/posts/</link>
+    <description>Recent content in Posts on Jay Carman</description>
+    <image>
+      <title>Jay Carman</title>
+      <url>https://jay.carman.us.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jay.carman.us.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jay.carman.us.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I manage my dotfiles</title>
+      <link>https://jay.carman.us.com/posts/20230926_how_i_manage_my_dotfiles/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jay.carman.us.com/posts/20230926_how_i_manage_my_dotfiles/</guid>
+      <description>My strategy to sync configuration files (dotfiles) across different Linux computers that I use</description>
+    </item>
+    
+    <item>
+      <title>About This Blog</title>
+      <link>https://jay.carman.us.com/posts/20230925_about_this_blog/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jay.carman.us.com/posts/20230925_about_this_blog/</guid>
+      <description>Technical overview of this blog site</description>
+    </item>
+    
+  </channel>
+</rss>

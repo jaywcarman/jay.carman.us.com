@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://jay.carman.us.com/posts/20230926_how_i_manage_my_dotfiles/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jay.carman.us.com/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jay.carman.us.com/posts/</loc>
+    <lastmod>2023-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jay.carman.us.com/posts/20230925_about_this_blog/</loc>
+    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jay.carman.us.com/categories/</loc>
+  </url><url>
+    <loc>https://jay.carman.us.com/tags/</loc>
+  </url>
+</urlset>

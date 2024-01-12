@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/jaywcarman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jay.carman.us.com
+  * I am jaywcarman (https://keybase.io/jaywcarman) on keybase.
+  * I have a public key with fingerprint E65B 8628 B13D EFF0 AD84  6F1F 72E3 7A17 F24E 2EBA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010124ef260b68f35ca2526c564c43dbae9178ed5ba4bc0c2cdbca2fa5614305580b0a",
+      "fingerprint": "e65b8628b13deff0ad846f1f72e37a17f24e2eba",
+      "host": "keybase.io",
+      "key_id": "72e37a17f24e2eba",
+      "kid": "010124ef260b68f35ca2526c564c43dbae9178ed5ba4bc0c2cdbca2fa5614305580b0a",
+      "uid": "499020ce090e1b4d5f90d07602ad2819",
+      "username": "jaywcarman"
+    },
+    "service": {
+      "hostname": "jay.carman.us.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1695500326,
+  "expire_in": 157680000,
+  "prev": "91f53e3a75362e6c6925371dd9ff021e1db1d5b076c34a57e73a5fe1bc86d275",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmlMVFcUx4etzNhatNjahqHooypUlrfM26aEgGIFRTAmYKqV8S33DY8Z5k1n
+HlsGSBhc2FwISVsmJQYXBKwiIMpYLKSQdBVbaGqprQUSTAFNhKHSGC19j9b0Sz/2
+frm55/7O//zPuffkygCN1m8I/2hPqZxo8vt6mtWAkNREF8RKfAlkdEEWsLwBKw+c
+sski8pARghEYQQ1AQAmYJSgBwzkGxVGCwwkDZ8B4lgE0QlKAx1nGwHIwh3I8qyAC
+gxOIAYNxnIJZmIFiIEG0mYHD7hBtsiILCJylCJRiEYwHggAzPGUgBEQgUYCRDEIK
+Sk0UsGpiruRUMxRzLOMEcaKkxJSDadnef/D/s++CZTkDTcMozAGYhgHCGnhcoGEe
+JgkYZXiUQmgVdAKHjckHCp3HlBRxjCOfsUFlMZASLxQ5oI5W7eVfJu5vJq7AGcdJ
++YqE3SHJEidZletcWbY7jWq6XGJX+SLAmv5RMrGijVfGqWQUAodTlGyQEVFIThZV
+aYSgcRyGMZSIgUCxXXQAk6gSOElQsLLUOqBQkTTRiIBjAGNIHCNQQHAEjeIYifA8
+rTwJigCEZxFlQkqfHGZgcBKQGIMLygA4iuBREofU5t6zSZARU3wyZkXTKZptjFzg
+AFDZimp/LFDjp9WEv7I+cPPAwM1d8c7DpfnmvmdfMMhf/X+aFbpVzyJvX1ul6T22
+2VnxxUuN5T3uWRe17/jTuYev35kT/ig3boTF1Z/VnydbQ/unxF82pFWmnWfGworC
+u7tuT4xry+YJcxs/rI8Nqr0Q7P/TlDc3Meb34sfrtZ/4arnQs5PG5pqIYJd2bem5
+TOnE0qOC07NNt04fSI7e03z0yNLHnd1NL9TVMg3Jp3z93WPehOx7hjdm7gvDP1bv
+/lJnleZ/iD4V8P2BjXxmUpElSuf51G/N+JaLvdUzdRnn1lmapi6N7Nu0gWvpCx2i
+DtYcif+Vy8oJ4Yd8rpTUrJ6c+GODdy6CM8/dyI8UEG/ATj9nZOCL5sG7h62yC9Pu
+7gtPijjUNvomnVSYrG3vvHRlR30saJ+vnH8S4z3U9Y576l2P3nLDdZXub/xgcWdk
+1tjV7JT0B2u8H35lbW1dGbzw2sjSkntbWE3vFsHj5raHTemZqG/rR3ueJN5LjWuN
+9I22ZeTdgit07t+u+KILX/35aCxSd/By8oLnrUn87MJsWWsV1btg3NRsadh/f+vW
+63XlQQ+rIf760226iYYTi5U5wR3eR5dzOt8P31uRNd6FPViXp7850Bh6e2ZwomY/
+QobKupMJ313b1V5c/Ke9YA6ac6weMH0eVfXy9HSGZy3VcteTljA3omEeW7OldH3T
+ZMfk9swqU21FSYie+mamJT0ip2P4+Z4dvkV3m5y0tzzlLw==
+=HyNW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaywcarman
+
+==================================================================

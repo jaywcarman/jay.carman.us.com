@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jay.carman.us.com/sitemap.xml
